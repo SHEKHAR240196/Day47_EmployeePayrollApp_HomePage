@@ -204,4 +204,4 @@ const unsetSelectedValues = (propertyValue) => {
     allItems.forEach(item=>{
         item.checked = false;
     });
-}
+} 
